@@ -1,0 +1,23 @@
+body{
+    font-family: 'Cormorant Infant';font-size: 22px;
+    background-image: url(images/background.jpg);
+   background-size: cover;
+   
+    }
+
+    .nav-link{
+        color: black;
+       transition-property: all;
+      }
+      .nav-link:hover{
+        transform: scale(1.1);
+         transition: ease-in;
+         background-color: rgb(219, 230, 219);
+         
+      } 
+      .navbar-collapse{
+          text-align: center;
+
+      }
+
+     
